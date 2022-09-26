@@ -1,4 +1,5 @@
-Instagram-DirectMessage-BOT\n
+Instagram-DirectMessage-BOT
+
 A simple pyhon instagram direct bot
 
 Installing:
