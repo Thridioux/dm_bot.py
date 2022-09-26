@@ -15,7 +15,9 @@ Installing:
 5.If you want to use it, make your confuguration in the dm_bot.py:
 
 --Enter your username and password
+
 --Enter a list of instagram usernames which you will send messages
+
 --Enter a message
 
 
