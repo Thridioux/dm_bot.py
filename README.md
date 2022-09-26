@@ -1,6 +1,6 @@
 Instagram-DirectMessage-BOT
 
-A simple pyhon instagram direct-message bot
+A simple pyhon instagram direct-message bot built by Thridioux
 
 Installing:
 
